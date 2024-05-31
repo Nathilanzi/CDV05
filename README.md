@@ -1,24 +1,34 @@
-Learning Reflections README
-Portfolio project
+Objective
+Create a very simple developer portfolio website to showcase your projects, skills, and contact information. This project will help you demonstrate your ability to design and develop a personal website that combines design and user experience, project showcase, content quality, and technical proficiency.
 
-SDF 08
+Criteria
+Your portfolio will be evaluated based on the following criteria:
 
-Overview:
-This README provides reflections on the SDF08 Portfolio Project, detailing areas of mastery, challenges faced, areas for improvement, and the overall learning experience.
+Overall Project Quality (CDV05)
+Combines design and user experience, project showcase, content quality, and technical proficiency.
+Evaluation Rubric can be found in your Student Dashboard
 
-Areas of Mastery:
-CSS Layout Techniques: Mastered various CSS layout techniques to create responsive and visually appealing designs.
-Responsive Design: Demonstrated proficiency in implementing responsive design principles for different screen sizes.
-Styling Elements: Successfully styled elements using custom CSS properties and advanced design choices.
+Project Requirements
+Design and User Experience
 
-Challenges Faced:
-Responsive Design for Smaller Screens: Encountered challenges in optimizing designs for smaller screens while maintaining functionality and aesthetics.
-Hover and Focus Effects: Faced difficulties in implementing hover and focus effects consistently across different elements.
+Create a clean and professional design.
+Ensure easy navigation and accessibility.
+Use responsive design to make your site look good on all devices.
+Project Showcase
 
-Areas for Improvement:
-Advanced CSS Properties: Aim to deepen understanding and utilization of advanced CSS properties to enhance design flexibility and creativity.
-Code Optimization: Strive to optimize code for improved performance and maintainability, ensuring cleaner and more efficient solutions.
-Creative Design Choices: Explore more creative design choices and experiment with innovative approaches to enhance visual appeal and user experience.
+Include at least 2 projects.
+Provide a brief description, technologies used, and a link to the project or its repository.
+Use images or screenshots to enhance the showcase.
+Content Quality
 
-Overall Learning Experience:
-portfolio Project provided an enriching learning experience, allowing for practical application of front-end development skills. Through this project, I gained valuable insights into CSS layout techniques, responsive design principles, and styling elements effectively. Despite facing challenges, the project enhanced my problem-solving abilities and fostered a deeper understanding of front-end development concepts.
+Write clear and concise descriptions for each section.
+Ensure there are no grammatical or spelling errors.
+Maintain a consistent and professional tone throughout the site.
+Technical Proficiency
+
+Use HTML, CSS, and optionally JavaScript to build your site.
+Ensure the code is clean, well-organised, and properly commented.
+Implement basic SEO practices, such as meta tags and descriptive URLs.
+Submission Guidelines
+Submit your project GitHub link to the CDV05 Project Tab.
+Ensure your project is well-documented, including a README file with instructions on how to view the site locally (if not yet deployed live).
